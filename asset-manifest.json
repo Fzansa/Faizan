@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Faizan/static/css/main.c719ce64.css",
+    "main.js": "/Faizan/static/js/main.3d86d710.js",
+    "static/js/703.8efc88f7.chunk.js": "/Faizan/static/js/703.8efc88f7.chunk.js",
+    "static/js/262.3d3a4bed.chunk.js": "/Faizan/static/js/262.3d3a4bed.chunk.js",
+    "index.html": "/Faizan/index.html",
+    "main.c719ce64.css.map": "/Faizan/static/css/main.c719ce64.css.map",
+    "main.3d86d710.js.map": "/Faizan/static/js/main.3d86d710.js.map",
+    "703.8efc88f7.chunk.js.map": "/Faizan/static/js/703.8efc88f7.chunk.js.map",
+    "262.3d3a4bed.chunk.js.map": "/Faizan/static/js/262.3d3a4bed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c719ce64.css",
+    "static/js/main.3d86d710.js"
+  ]
+}
